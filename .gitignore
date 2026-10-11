@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.ipynb_checkpoints/
+.DS_Store
+*.lpg
+*.pt
+*.pth
+*.zip
+results/*
+!results/.gitkeep
